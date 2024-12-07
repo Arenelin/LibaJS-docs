@@ -2,7 +2,7 @@
 description: Create a doc page with rich content.
 ---
 
-# Hello from Arenelin!!!123
+# Hello from Arenelin0
 
 Are you ready to create the documentation site for your open source project?
 
